@@ -1,0 +1,28 @@
+I’d like to share my feedback regarding the interview with [Candidate Name] for the [Position Name] role conducted on [Date].
+
+Technical Assessment:
+The candidate struggled to answer basic DevOps questions and demonstrated limited understanding of core concepts.
+
+Responses were often irrelevant to the questions asked, indicating a gap in foundational knowledge.
+
+When given a basic scripting task, the candidate was unable to proceed due to technical difficulties (screen sharing issues).
+
+Communication & Preparedness:
+The candidate’s communication skills need improvement, as they had difficulty articulating their thoughts clearly.
+
+Technical issues disrupted the interview (video/screen sharing problems). While these were eventually resolved, such challenges should ideally be addressed before the interview begins to ensure a smooth process.
+
+Recommendation:
+Given the performance in both technical and communication areas, I do not recommend proceeding with this candidate for the [Position Name] role. Additionally, for future interviews, it may be helpful to:
+
+Pre-interview Tech Check: Ensure candidates test their setup (video, audio, screen sharing) in advance.
+
+Clear Expectations: Emphasize the importance of being technically prepared for a DevOps-focused interview.
+
+Please let me know if you’d like to discuss this further.
+
+Best regards,
+[Your Full Name]
+[Your Job Title]
+[Your Contact Information]
+
